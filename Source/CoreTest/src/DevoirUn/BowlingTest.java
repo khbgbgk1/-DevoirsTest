@@ -17,6 +17,7 @@ import java.util.Collection;
 /**
  * Tests JUnit pour vérifier le bon fonctionnement du système de pointage de bowling.
  * Thibault BISAGNI
+ * Lien Github : https://github.com/khbgbgk1/-DevoirsTest/tree/Devoir1
  */
 public class BowlingTest {
 
