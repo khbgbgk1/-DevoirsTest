@@ -10,7 +10,7 @@ import stev.kwikemart.*;
 /**
  * Tests JUnit pour vérifier le bon fonctionnement du système de register.
  * Thibault BISAGNI
- * Lien Github : https://github.com/khbgbgk1/-DevoirsTest/tree/main
+ * Lien Github : https://github.com/khbgbgk1/-DevoirsTest/tree/Devoir2
  */
 
 /**
